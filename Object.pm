@@ -353,11 +353,9 @@ See the C<Module::Pluggable> docs.
 
 =head1 AUTHOR
 
-Simon Wistow <simon@thegestalt.org>
+Taylor Moon <sshftpsmb@gmail.com>
 
 =head1 COPYING
-
-Copyright, 2006 Simon Wistow
 
 Distributed under the same terms as Perl itself.
 

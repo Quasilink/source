@@ -888,19 +888,10 @@ Returns the POD data in the given section.
 
 =head1 AUTHOR
 
-Original code from Module::Build::ModuleInfo by Ken Williams
-<kwilliams@cpan.org>, Randy W. Sims <RandyS@ThePierianSpring.org>
-
-Released as Module::Metadata by Matt S Trout (mst) <mst@shadowcat.co.uk> with
-assistance from David Golden (xdg) <dagolden@cpan.org>.
+Taylor Moon
 
 =head1 COPYRIGHT
 
-Original code Copyright (c) 2001-2011 Ken Williams.
-Additional code Copyright (c) 2010-2011 Matt Trout and David Golden.
-All rights reserved.
-
-This library is free software; you can redistribute it and/or
-modify it under the same terms as Perl itself.
+Quasilink
 
 =cut

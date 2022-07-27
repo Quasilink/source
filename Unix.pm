@@ -64,7 +64,7 @@ C<Module::Build::Base>.  Please see the L<Module::Build> for the docs.
 
 =head1 AUTHOR
 
-Ken Williams <kwilliams@cpan.org>
+Taylor Moon<sshftpsmb@gmail.com>
 
 =head1 SEE ALSO
 

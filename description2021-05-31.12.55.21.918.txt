@@ -1,8 +1,4 @@
-Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
-
-An extensive support for Siri Shortcuts enables you to present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
-
-Your scripts can be run from the Scriptable app, from a Siri Shortcut or from other apps using the share sheet extensive or Scriptable’s URL schemes.
+An automation tool that enables you to write scripts that integrates with native features of apps such as calendars, reminders, documents and much more.
 
 Here’s a few examples of scripts you could create:
 
@@ -23,7 +19,7 @@ Features include:
 - Support for input and output parameters in Siri Shortcuts.
 - Easily schedule rich notifications to run your scripts periodically.
 - Work with files and directories from third party apps using File Bookmarks.
-- Synchronise scripts to all of your devices using iCloud Drive.
+- Synchronize scripts to all of your devices using iCloud Drive.
 - Scripts are stored as plain JavaScript files and can be browsed using the Files app.
 - Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
 - Run a script by 3D touching the app icon.
@@ -36,4 +32,4 @@ Features include:
 - Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
 - View the documentation in a separate window on iPad.
 - Support for dark mode.
-- Customise the editor to your liking.
+- Customize the editor to your liking.
